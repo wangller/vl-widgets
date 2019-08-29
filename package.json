@@ -1,0 +1,16 @@
+{
+  "name": "vl-widgets",
+  "version": "0.1.0",
+  "description": "基于vue和leaflet实现的组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "leaflet",
+    "widgets"
+  ],
+  "author": "wangller",
+  "license": "ISC"
+}
